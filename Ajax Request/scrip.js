@@ -9,6 +9,6 @@ function loadRepo(){
     }       
 }
 
-xhttp.open("GET", "https://api.github.com/users/YOURUSERNAME/repos ", true )
+xhttp.open("GET", "https://api.github.com/users/kongwela/repos ", true )
 xhttp.send();
 }
